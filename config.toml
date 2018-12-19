@@ -5,4 +5,4 @@ theme = "detox"
 
 [params]
 author = "TotalEmail"
-description = "The TotalEmail blog on email analysis, spam detection, and building an email database."
+description = "A blog on email analysis, spam detection, and building an email database."
