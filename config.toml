@@ -1,4 +1,4 @@
-baseURL = "https://totalemail.io/"
+baseURL = "https://blog.totalemail.io/"
 languageCode = "en-us"
 title = "TotalEmail"
 theme = "detox"
