@@ -1,15 +1,15 @@
 ---
 title: "Why does TotalEmail exist?"
-date: 2018-12-19T12:56:15-03:00
+date: 2018-12-19
 description: "A short introduction to TotalEmail's objective and the means of accomplishing that objective."
 tags: ["Objectives", "Purpose", "Accessibility"]
 ---
 
-#### Why: Our Objective
+#### Why: Our objective
 
 TotalEmail exists to help you determine whether or not an email is malicious, spam, or benign (or something else entirely).
 
-#### How: Our Criteria for Success
+#### How: Our criteria for success
 
 We would like to accomplish our objective in a way that:
 
