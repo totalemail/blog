@@ -14,12 +14,12 @@ TotalEmail exists to help you determine whether or not an email is malicious, sp
 Some of the most exiting features of this release include:
 
 - Search capability
-    - The search capability includes search prefixes which let you narrow down your searches <!-- TODO: it would be nice to have a link to the search prefixes documentation --> . For example, a search for [sub:spam](https://alpha.totalemail.io/search?q=sub%3Aspam) finds all emails with "spam" in the subject line while searching for [spam](https://alpha.totalemail.io/search?q=spam) finds all emails with the word "spam" in them (anywhere in the email).
-    - Queries are preserved in the URL as [query strings](https://en.wikipedia.org/wiki/Query_string) so you can bookmark and share helpful search queries (e.g. If you want to see emails with the phrase "don't wait" in them, see: [https://alpha.totalemail.io/search?q=don%27t+wait](https://alpha.totalemail.io/search?q=don%27t+wait)).
+    - The search capability includes search prefixes which let you narrow down your searches <!-- TODO: it would be nice to have a link to the search prefixes documentation --> . For example, a search for [sub:spam](https://totalemail.io/search?q=sub%3Aspam) finds all emails with "spam" in the subject line while searching for [spam](https://totalemail.io/search?q=spam) finds all emails with the word "spam" in them (anywhere in the email).
+    - Queries are preserved in the URL as [query strings](https://en.wikipedia.org/wiki/Query_string) so you can bookmark and share helpful search queries (e.g. If you want to see emails with the phrase "don't wait" in them, see: [https://totalemail.io/search?q=don%27t+wait](https://totalemail.io/search?q=don%27t+wait)).
 - Multi-upload
     - We've added functionality which lets you upload multiple emails at once! We plan to expand this in the future to make it easier to find emails that you have uploaded.
 - Email 'map'
-    - When viewing the details page for an email, there is a 'map' of the email's structure on the right side of the page (here is an [example](https://alpha.totalemail.io/email/5a0ba393b6a917b9a381920a24dabccb5db449920a2cb773279a0ca52b12e4a2)). We're excited to expand and improve this feature to make it easy to view an email's structure and jump to the important places.
+    - When viewing the details page for an email, there is a 'map' of the email's structure on the right side of the page (here is an [example](https://totalemail.io/email/5a0ba393b6a917b9a381920a24dabccb5db449920a2cb773279a0ca52b12e4a2)). We're excited to expand and improve this feature to make it easy to view an email's structure and jump to the important places.
 
 #### How we did it: Technical implementation details
 
@@ -27,6 +27,6 @@ We are primarily using [Django](https://www.djangoproject.com/) for this project
 
 We sincerely hope you enjoy the "Pyxis Nautica" release.
 
-[Happy exploring](https://alpha.totalemail.io/email/5a0ba393b6a917b9a381920a24dabccb5db449920a2cb773279a0ca52b12e4a2)!
+[Happy exploring](https://totalemail.io/email/5a0ba393b6a917b9a381920a24dabccb5db449920a2cb773279a0ca52b12e4a2)!
 
 ![This release is named "Pyxis" after the constellation representing a mariner's compass.](/imgs/pyxis.png)

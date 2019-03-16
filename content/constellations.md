@@ -13,4 +13,4 @@ Each blog post on a release will include:
 - **What we did**: what we accomplished in this release
 - **How we did it**: a technical look at how we accomplished our goals
 
-Enjoy and [happy hunting](https://alpha.totalemail.io/email/2dc687010f612dc4d2393895f748acd8a523d69d65090c7c1345a1eafca22c81)!
+Enjoy and [happy hunting](https://totalemail.io/email/2dc687010f612dc4d2393895f748acd8a523d69d65090c7c1345a1eafca22c81)!
