@@ -1,8 +1,12 @@
 <article class="{{ .Type }}">
 	<header class="post-header">
         <h3 class="p-post-title">{{ .Title }}</h3>
+        <br>
         <span class="f-post-time"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time></span>
+        <p class="description"><i>{{ .Description }}</i></p>
     </header>
+
+    <br>
 
     <section class="post-content">
         {{ .Content }}

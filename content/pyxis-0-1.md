@@ -1,5 +1,5 @@
 ---
-title: "TotalEmail 0.1: Pyxis Nautica"
+title: "TotalEmail v0.1: Pyxis Nautica"
 date: 2019-01-17
 description: "Version 0.1 is released! Named 'Pyxis Nautica' after a constellation representing a mariner's compass, this release provides basic upload and search functionality that will guide future releases. In this blog post, we'll discuss a few of the new things we are most excited about."
 tags: ["Release Notes", "Search", "Import", "Email Structure", "Django", "PostgreSQL", "Flask"]
