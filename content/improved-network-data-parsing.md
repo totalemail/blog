@@ -25,7 +25,7 @@ When we started the TotalEmail project, ioc-finder was very young and was still 
 
 ioc-finder would parse `https://bit.ly/123456'` as a URL (note the trailing single quotation mark). Recently, however, ioc-finder has been updated and is working properly! We will be adding a feedback page soon, so if you notice anything strange with our network data parsing, feel free to contact us or [raise an issue](https://github.com/fhightower/ioc-finder/issues).
 
-Enjoy and [happy hunting](https://totalemail.io/email/2711a62978f13ddb47f94173db193ee0b7675ac331d4f874f4937a4ade923713)!
+Enjoy and [happy hunting](https://totalemail.io/email/6a42a5371724605726b80bbce2fa3a09e0930624e04658bc24f6c1c62cb3817e)!
 
 #### Notes
 

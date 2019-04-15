@@ -31,6 +31,6 @@ To achieve this, we are relying on python's [native email parsing capabilities](
 
 We sincerely hope you enjoy the "Andromeda" release.
 
-[Happy exploring](https://totalemail.io/email/2711a62978f13ddb47f94173db193ee0b7675ac331d4f874f4937a4ade923713)!
+[Happy exploring](https://totalemail.io/email/618e6c8fe710ef1fa54f55880ecbe969c3edea969704f62793d96eea3dbae6f5)!
 
 ![This release is named "Andromeda" after the constellation representing chained princess from Greek mythology.](/imgs/andromeda.png)

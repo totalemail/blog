@@ -5,6 +5,8 @@ description: "Version 0.1 is released! Named 'Pyxis Nautica' after a constellati
 tags: ["Release Notes", "Search", "Import", "Email Structure", "Django", "PostgreSQL", "Flask"]
 ---
 
+![This release is named "Pyxis" after the constellation representing a mariner's compass.](/imgs/Pyxis.jpg)
+
 #### Why we did it: Our objectives for this release
 
 TotalEmail exists to help you determine whether or not an email is malicious, spam, or benign. This release provides the foundation on which we will build to accomplish our mission. The primary objective of this release is to get something released that we can iterate on and improve. You have to start somewhere!
@@ -19,7 +21,7 @@ Some of the most exiting features of this release include:
 - Multi-upload
     - We've added functionality which lets you upload multiple emails at once! We plan to expand this in the future to make it easier to find emails that you have uploaded.
 - Email 'map'
-    - When viewing the details page for an email, there is a 'map' of the email's structure on the right side of the page (here is an [example](https://totalemail.io/email/5a0ba393b6a917b9a381920a24dabccb5db449920a2cb773279a0ca52b12e4a2)). We're excited to expand and improve this feature to make it easy to view an email's structure and jump to the important places.
+    - When viewing the details page for an email, there is a 'map' of the email's structure on the right side of the page (here is an [example](https://totalemail.io/email/2159d16de88b89a91418ea282c1e26404b625a225aece7921838ab428b74f5a2)). We're excited to expand and improve this feature to make it easy to view an email's structure and jump to the important places.
 
 #### How we did it: Technical implementation details
 
@@ -27,6 +29,6 @@ We are primarily using [Django](https://www.djangoproject.com/) for this project
 
 We sincerely hope you enjoy the "Pyxis Nautica" release.
 
-[Happy exploring](https://totalemail.io/email/5a0ba393b6a917b9a381920a24dabccb5db449920a2cb773279a0ca52b12e4a2)!
+[Happy exploring](https://totalemail.io/email/2159d16de88b89a91418ea282c1e26404b625a225aece7921838ab428b74f5a2)!
 
 ![This release is named "Pyxis" after the constellation representing a mariner's compass.](/imgs/pyxis.png)

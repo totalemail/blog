@@ -14,4 +14,4 @@ To make the code more simple and maintainable and to make each system work more 
 
 If you have never used ZeroMQ, we highly recommend you give it a try. It is a fantastic system which makes a complex task very easy. ZeroMQ has support for most, common programming languages and is well documented (as long as you are willing to do some reading).
 
-Enjoy and [happy hunting](https://totalemail.io/email/2dc687010f612dc4d2393895f748acd8a523d69d65090c7c1345a1eafca22c81)!
+Enjoy and [happy hunting](https://totalemail.io/email/eb2c75293b6d597ff09d3e648186d46d1cd69443b9134749e2f704032ca7c859)!
