@@ -2,7 +2,7 @@
 title: "Improving Network Data Parsing Using Grammars"
 date: 2019-03-16
 description: "This blog post describes how we are using grammars to find network data (like URLs, email addresses, ip addresses, etc)."
-tags: ["Developer Notes", "Grammars", "pyparsing", "Network Data", "Indicators of Compromise"]
+tags: ["Developer Notes", "Grammars", "Pyparsing", "Network Data", "Indicators of Compromise"]
 ---
 
 When an email is uploaded to TotalEmail, we want to find all of the network data in the email (data points like URLs, IP addresses, email addresses, and domain names). This helps us identify malicious links, accurately predict whether or not the email is malicious, and help you make connections between emails with the same or similar content. The question is: How can we parse network data from an email (or any text blob for that matter)?
