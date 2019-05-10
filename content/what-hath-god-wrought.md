@@ -7,7 +7,7 @@ tags: ["Objectives", "Purpose", "Accessibility"]
 
 #### Why: Our objective
 
-TotalEmail exists to help you determine whether an email is malicious, spam, or benign (or something else entirely).
+TotalEmail exists to help you determine whether or not an email is malicious.
 
 #### How: Our criteria for success
 
