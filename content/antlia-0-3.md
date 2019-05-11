@@ -19,6 +19,8 @@ Some of the most exiting features of this release include:
     - Each email uploaded to TotalEmail is run through a series of analysis engines which provide analysis and insights to help you determine whether or not the email is malicious. We have introduced a system which takes these scores and consolidates them into a single score for each email. You can read more about this system [here](/email-scoring-0/).
 - Improved email redaction
     - To continue our commitment to user privacy, we have improved the redaction capabilities to be able to redact content from base64 encoded bodies and header fields.
+- Improved GUI layout
+    - We have improved the GUI; especially on the details page for an email (e.g. [https://totalemail.io/email/409e912be8f09795ebb8fe38aa0e71cb3b87fec2a3450a54fbdd6712be713099](https://totalemail.io/email/409e912be8f09795ebb8fe38aa0e71cb3b87fec2a3450a54fbdd6712be713099))
 
 #### How we did it: Technical implementation details
 

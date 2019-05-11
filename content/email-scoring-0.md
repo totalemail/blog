@@ -33,7 +33,7 @@ TotalEmail exists to help you determine whether or not an email is malicious. Ou
 
 As mentioned, we have a number of analysis engines which are producing results and scores for each email. To calculate an email's score, we follow this algorithm:
 
-- For each score: run the score through a function that converts the score to our -1 to 1 scale. This means that each analysis engine has its own function. For example, if the score of a malicious email is between 50 and 100 in some fictitious analysis engine, this would have to be converted so fit between 0.333 and 1 (which is our range for en email that is likely malicious).
+- For each score: run the score through a function that converts the score to our -1 to 1 scale. This means that each analysis engine has its own function. For example, if the score of a malicious email is between 50 and 100 in some fictitious analysis engine, this would have to be converted to fit between 0.333 and 1 (which is our range for en email that is likely malicious).
 - Once all of the scores are converted, take the average of the scores and this is the email's score.
 
 From a software design perspective, we have chosen to abstract the score calculation so that we calculate the score for an email every time that email is viewed rather than calculating the score once and storing it in the database. While this requires more processing power, it also allows us to update and fine-tune the email scoring functions and algorithm without having to change anything in the database.
