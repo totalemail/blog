@@ -1,8 +1,8 @@
 ---
 title: "Change Log"
-date: 2019-05-01
-description: "Change log for TotalEmail."
-tags: ["Release Notes"]
+date: 2019-05-10
+description: "Here's a brief look at what we've accomplished at TotalEmail."
+tags: ["Release Notes", "Progress"]
 ---
 
 #### v0.3: Antlia

@@ -15,6 +15,10 @@ What makes ioc-finder interesting is that it doesn't follow the normal approach 
 - Easier to build on one another
 - Easier to create because you don't have to worry as much about whitespace and word boundaries
 
+<img src='https://drscdn.500px.org/photo/229249691/m%3D900/v2?user_id=23113227&webp=true&sig=7be84b0a19f25c7c8b86c210afad67da6ec70feaa3807a40dfd398bb3ad84b60' alt='What does the text say? by Floyd Hightower on 500px.com'>
+
+*Photo by [Floyd Hightower](https://hightower.space/) on [500px](https://500px.com/photo/229249691/what-does-the-text-say-by-floyd-hightower)*
+
 #### Improving IOC-Finder
 
 When we started the TotalEmail project, ioc-finder was very young and was still having some problems parsing network data correctly. For example, given:
