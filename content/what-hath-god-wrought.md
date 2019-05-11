@@ -22,3 +22,5 @@ We would like to accomplish our objective in a way that:
     - Our goal in building TotalEmail is to provide a system that creates ideas in other people and facilitates the creation of new and effective solutions. Security is a problem none of us can solve alone and we want to facilitate cooperation and camaraderie as much as possible.
 
 We are excited to be embarking on this endeavor and are encouraged that you took the time to read this! This is the start of something great!
+
+If you're interested in learning about how you can use TotalEmail, check out some [use-cases](/use-cases/).

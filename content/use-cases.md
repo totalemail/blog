@@ -5,7 +5,7 @@ description: "Here are some ideas for to get you thinking about how you can use 
 tags: ["Ideas", "Use Cases"]
 ---
 
-TotalEmail exists to help you identify if an email is malicious; here are some ideas to get you thinking about how you can use TotalEmail. If you have questions about any of the use-cases below, please <a href="mailto:info@totalemail.io">email us</a>.
+TotalEmail exists to help you identify if an email is malicious; here are some ideas to get you thinking about how you can use TotalEmail. If you have questions about any of the use-cases below, please <a href="mailto:info@totalemail.io">email us</a>. You can learn more about why TotalEmail exists [here](/what-hath-god-wrought/).
 
 #### Use-case 1: Train Spam Detection Systems
 
