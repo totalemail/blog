@@ -1,7 +1,7 @@
 ---
 title: "Roadmap"
 date: 2019-05-17
-description: "Here's a brief look at where TotalEmail is heading."
+description: "Here's a brief glimpse into the future of TotalEmail."
 tags: ["Release Notes", "Progress", "Future"]
 ---
 
