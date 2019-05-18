@@ -9,7 +9,7 @@ tags: ["Release Notes", "GUI", "Base64", "Redaction", "Privacy", "Email Scoring"
 
 #### Why we did it: Our objectives for this release
 
-TotalEmail exists to help you determine whether or not an email is malicious. This release is focused on creating a single representation (both visual and numeric) of the probability that an email is maliciousness.
+TotalEmail exists to help you determine if an email is malicious. This release creates a single representation (both visual and numeric) of the probability that an email is maliciousness.
 
 #### What we did: What we accomplished in this release
 

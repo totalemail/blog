@@ -5,6 +5,8 @@ description: "Here's a brief glimpse into the future of TotalEmail."
 tags: ["Release Notes", "Progress", "Future"]
 ---
 
+You can read more about what we've accomplished so far [here](/change-log/).
+
 #### Future Plans
 
 ##### Short-Term (next 6 months)
@@ -22,7 +24,7 @@ tags: ["Release Notes", "Progress", "Future"]
 - Improve the quality of the scoring system
 - Improve API and SDKs
 - Add ability for visitors to 'vote' on the maliciousness of emails and their contents
-    - Experiment with voting systems to engage passive and busy users
+    - Experiment with voting systems to engage passive and busy visitors
 
 <img src='https://drscdn.500px.org/photo/245669351/m%3D900/v2?user_id=23113227&webp=true&sig=d6b782189bcb707755522d5d32563704a61d685af1df3d5c0c751a855541f855' alt='Mountain Road by Floyd Hightower on 500px.com'>
 

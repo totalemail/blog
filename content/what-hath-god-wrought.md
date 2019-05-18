@@ -13,7 +13,7 @@ TotalEmail exists to help you determine whether or not an email is malicious.
 
 We would like to accomplish our objective in a way that:
 
-- Is **accessible** for users with vastly different levels of expertise
+- Is **accessible** for visitors with vastly different levels of expertise
     - We want TotalEmail to be approachable enough that an individual with only basic knowledge of email, the internet, and computers can find value from it and deep enough that seasoned cyber-security professionals can derive great value from it. We want TotalEmail to be like the ocean; approachable enough that a child could play in it; deep enough to keep explorers busy for centuries.
 - Is **easy** to use
 - Is as **enjoyable** as is reasonable
