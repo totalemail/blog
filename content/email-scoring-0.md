@@ -9,11 +9,11 @@ tags: ["Email Scoring", "Traffic Lights"]
 
 Every email that comes into TotalEmail is run through a series of analysis engines which consider different aspects of the email. We consolidate the results from all of these analysis engines into a single score for each email which captures the likelihood that the email is malicious.
 
-An email's score can range from -1 to 1 (inclusive). Negative scores mean an email is less likely to be malicious and positive scores indicate that an email is more likely to be malicious. We also break up the scores into three, qualitative categories:
+An email's score can range from 0 to 1 (inclusive). Lower scores mean an email is less likely to be malicious and higher scores indicate that an email is more likely to be malicious. We also break up the scores into three, qualitative categories:
 
-- "Likely Benign" (scores between -1 and -0.333)
-- "Likely Suspicious" (scores between -0.333 and 0.333)
-- "Likely Malicious" (scores between 0.333 and 1)
+- "Likely Benign" (scores between 0 and 0.333)
+- "Likely Suspicious" (scores between 0.334 and 0.666)
+- "Likely Malicious" (scores between 0.667 and 1)
 
 ![Our email scoring system seeks to classify emails into one of three categories: "Likely benign", "Likely suspicious", "Likely malicious"](/imgs/scoring_annotated.png)
 
@@ -33,8 +33,8 @@ TotalEmail exists to help you determine whether or not an email is malicious. Ou
 
 As mentioned, we have a number of analysis engines which are producing results and scores for each email. To calculate an email's score, we follow this algorithm:
 
-- For each score: run the score through a function that converts the score to our -1 to 1 scale. This means that each analysis engine has its own function. For example, if the score of a malicious email is between 50 and 100 in some fictitious analysis engine, this would have to be converted to fit between 0.333 and 1 (which is our range for en email that is likely malicious).
-- Once all of the scores are converted, take the average of the scores and this is the email's score.
+- For each score: run the score through a function that converts the score to our 0 to 1 scale. This means that each analysis engine has its own function. For example, if an analysis engine returns a score between 50 and 100 for a malicious email, this score would be converted to fit between 0.667 and 1 (which is our range for en email that is likely malicious).
+- Once all of the scores are converted, find the average of the scores and this is the email's score.
 
 From a software design perspective, we have chosen to abstract the score calculation so that we calculate the score for an email every time that email is viewed rather than calculating the score once and storing it in the database. While this requires more processing power, it also allows us to update and fine-tune the email scoring functions and algorithm without having to change anything in the database.
 
