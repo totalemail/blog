@@ -40,4 +40,8 @@ From a software design perspective, we have chosen to abstract the score calcula
 
 ![We use a traffic light to communicate the score of an email](/imgs/traffic-light.png)
 
+#### Updates
+
+- On May 24, we updated the scoring system to go from 0 to 1 instead of -1 to 1. We did this to more intuitively communicate the email's score. In the previous version (the one that used the -1 to 1 scale), zero was used as a neutral or unknown score. We think it is more intuitive to use zero to represent nothingness - namely an almost nonexistent probability that something is malicious.
+
 [Stay safe out there](https://totalemail.io/email/76371e5e493103e4bf2e16d5326316ebf9d846c2b5f0ed0a37f9f37bb3614006)!
