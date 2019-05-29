@@ -984,7 +984,7 @@ article.li {
 
 .post-content a:hover,
 #site-footer a:hover {
-    color: #e6e6e6;
+    color: #000;
     border-bottom: 1px solid
 }
 
