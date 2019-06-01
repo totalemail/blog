@@ -61,7 +61,7 @@ You can read more about our future plans [here](/road-map/).
 #### v0.1: Pyxis (*January 17, 2019*)
 
 - Improved search capability
-- Adding search prefixes
+- Adding search functions
 - Adding ability to upload multiple emails (max of 50)
 - Adding email structure 'map' (you can see this [here](https://totalemail.io/email/2159d16de88b89a91418ea282c1e26404b625a225aece7921838ab428b74f5a2))
 

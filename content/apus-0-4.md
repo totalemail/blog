@@ -2,7 +2,7 @@
 title: "TotalEmail v0.4: Apus"
 date: 2019-05-18
 description: "Version 0.4 is released! Named 'Apus' after the constellation representing a bird of paradise, this release improves the layout of data in the GUI, improves redaction by redacting content matching certain patterns, and improves the email structure. In this blog post, we'll discuss a few of the new things we are most excited about!"
-tags: ["Release Notes", "GUI", "Redaction", "Privacy", "Social Security Numbers", "Personally Identifiable Information", "Phone Numbers", "Regexes", "Email Structure", "Django"]
+tags: ["Release Notes", "GUI", "Redaction", "Privacy", "Social Security Numbers", "Personally Identifiable Information", "Phone Numbers", "Regexes", "Email Structure", "Django", "Search"]
 ---
 
 ![This release is named "Apus" after the constellation representing a bird of paradise](/imgs/apus-annotated.jpg)

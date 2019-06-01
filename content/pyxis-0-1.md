@@ -2,7 +2,7 @@
 title: "TotalEmail v0.1: Pyxis Nautica"
 date: 2019-01-17
 description: "Version 0.1 is released! Named 'Pyxis Nautica' after a constellation representing a mariner's compass, this release provides basic upload and search functionality that will guide future releases. In this blog post, we'll discuss a few of the new things we are most excited about."
-tags: ["Release Notes", "Search", "Import", "Email Structure", "Django", "PostgreSQL", "Flask"]
+tags: ["Release Notes", "Search", "Import", "Email Structure", "Django", "PostgreSQL", "Flask", "Search Functions"]
 ---
 
 ![This release is named "Pyxis" after the constellation representing a mariner's compass.](/imgs/Pyxis.jpg)
@@ -16,7 +16,7 @@ TotalEmail exists to help you determine whether or not an email is malicious, sp
 Some of the most exiting features of this release include:
 
 - Search capability
-    - The search capability includes search prefixes which let you narrow down your searches <!-- TODO: it would be nice to have a link to the search prefixes documentation --> . For example, a search for [sub:spam](https://totalemail.io/search?q=sub%3Aspam) finds all emails with "spam" in the subject line while searching for [spam](https://totalemail.io/search?q=spam) finds all emails with the word "spam" in them (anywhere in the email).
+    - The search capability includes search functions which let you narrow down your searches <!-- TODO: it would be nice to have a link to the search functions documentation --> . For example, a search for [sub(spam)](https://totalemail.io/search?q=sub(spam)) finds all emails with "spam" in the subject line while searching for [spam](https://totalemail.io/search?q=spam) finds all emails with the word "spam" in them (anywhere in the email).
     - Queries are preserved in the URL as [query strings](https://en.wikipedia.org/wiki/Query_string) so you can bookmark and share helpful search queries (e.g. If you want to see emails with the phrase "don't wait" in them, see: [https://totalemail.io/search?q=don%27t+wait](https://totalemail.io/search?q=don%27t+wait)).
 - Multi-upload
     - We've added functionality which lets you upload multiple emails at once! We plan to expand this in the future to make it easier to find emails that you have uploaded.
