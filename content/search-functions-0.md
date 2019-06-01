@@ -1,6 +1,6 @@
 ---
 title: "Using Search Functions in TotalEmail"
-date: 2019-06-01
+date: 2019-06-03
 description: "An introduction to Search Functions in TotalEmail"
 tags: ["Search", "Search Functions"]
 ---
