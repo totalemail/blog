@@ -9,6 +9,21 @@ You can read more about our future plans [here](/road-map/).
 
 <hr>
 
+#### v0.5: Aquarius (*June 20, 2019*)
+
+- Fixed bugs related to email parsing, analysis, and display
+- Adding eight, new email analysis engines
+- Improving TotalEmail and analysis engine code
+- Adding and improving tests
+- Adding a voting feature (you can read more about this [here](https://blog.totalemail.io/email-voting-0/))
+- Improved scoring system to go from 0 to 1 (you can find more details [here](https://blog.totalemail.io/email-scoring-0/))
+
+![This release is named "Aquarius" after the constellation representing a water bearer](/imgs/aquarius-annotated.png)
+
+[Read more about v0.5](/aquarius-0-5/) - [Read more about Aquarius (the constellation)](https://en.wikipedia.org/wiki/Aquarius_(constellation))
+
+<hr>
+
 #### v0.4: Apus (*May 18, 2019*)
 
 - Simplified display of common domain names (e.g. `google.com` - see https://totalemail.io/email/562195df0efd46d9a644ca53ada6c0a4c17b69be2df3530964e8dcac6ead2397#networkData)
