@@ -1,7 +1,7 @@
 ---
 title: "TotalEmail v0.5: Aquarius"
 date: 2019-06-20
-description: "Version 0.5 is released! Named 'Aquarius' after the constellation representing a water bearer, this release XXXXX. In this blog post, we'll discuss a few of the new things we are most excited about!"
+description: "Version 0.5 is released! Named 'Aquarius' after the constellation representing a water bearer, this release improves the robustness and maintainability of the code under the hood of TotalEmail. In this blog post, we'll discuss a few of the new things we are most excited about!"
 tags: ["Release Notes", "Voting", "Pytest", "Testing", "Django"]
 ---
 
