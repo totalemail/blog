@@ -27,7 +27,7 @@ Some of the most exiting features of this release include:
 As we've spent some time writing and improving tests for this release, it is only fitting that we draw your attention to [pytest](https://docs.pytest.org/en/latest/). Pytest is a *fantastic* testing framework for python. It is easy to write tests for pytest and it has powerful, advanced features if you want to do something out of the ordinary. If you have not used pytest, we highly recommend it! If you are using django, you can use [pytest-django
 ](https://pytest-django.readthedocs.io/en/latest/) to test django views and apps. Test away!
 
-![This release is named "Aquarius" after the constellation representing a bird of paradise](/imgs/aquarius.svg.png)
+![This release is named "Aquarius" after the constellation representing a water pitcher](/imgs/aquarius.svg.png)
 
 We sincerely hope you enjoy the "[Aquarius](https://en.wikipedia.org/wiki/Aquarius_(constellation))" release.
 
