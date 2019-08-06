@@ -9,6 +9,20 @@ You can read more about our future plans [here](/road-map/).
 
 <hr>
 
+#### v0.6: Aquila (*August 3, 2019*)
+
+- Added ability to parse network data from base64 encoded bodies
+- Make a network data super-class to generalize the handling of the `modified` and `first_seen` dates
+- Using python's [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) module to speed up the email analysis engines
+- Minor bug fixes
+- Making the side-bar 'sticky' on an email's details page
+
+![This release is named "Aquila" after the constellation representing an eagle](/imgs/aquila-art.png)
+
+[Read more about v0.6](/aquila-0-6/) - [Read more about Aquila (the constellation)](https://en.wikipedia.org/wiki/Aquila_(constellation))
+
+<hr>
+
 #### v0.5: Aquarius (*June 20, 2019*)
 
 - Fixed bugs related to email parsing, analysis, and display
