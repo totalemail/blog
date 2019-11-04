@@ -5,7 +5,7 @@ description: "Version 0.5 is released! Named 'Aquarius' after the constellation 
 tags: ["Release Notes", "Voting", "Pytest", "Testing", "Django"]
 ---
 
-![This release is named "Aquarius" after the constellation representing a water bearer](/imgs/aquarius-annotated.png)
+![This release is named "Aquarius" after the constellation representing a water bearer](/imgs/aquarius-art.png)
 
 #### Why we did it: Our objectives for this release
 
