@@ -5,7 +5,7 @@ description: "Version 0.3 is released! Named 'Antlia' after the constellation re
 tags: ["Release Notes", "GUI", "Base64", "Redaction", "Privacy", "Email Scoring", "Traffic Lights", "Django", "Heroku", "Whitenoise"]
 ---
 
-![This release is named "Antlia" after the constellation representing an air pump](/imgs/antlia-annotated.jpg)
+![This release is named "Antlia" after the constellation representing an air pump](/imgs/antlia-art.png)
 
 #### Why we did it: Our objectives for this release
 

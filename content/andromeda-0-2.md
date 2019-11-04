@@ -5,7 +5,7 @@ description: "Version 0.2 is released! Named 'Andromeda' after the constellation
 tags: ["Release Notes", "Import", "Database", "Email Structure", "Network Data"]
 ---
 
-![This release is named "Andromeda" after the constellation representing chained princess from Greek mythology](/imgs/andromeda_annotated.png)
+![This release is named "Andromeda" after the constellation representing chained princess from Greek mythology](/imgs/andromeda-art.png)
 
 #### Why we did it: Our objectives for this release
 

@@ -5,7 +5,7 @@ description: "Version 0.1 is released! Named 'Pyxis Nautica' after a constellati
 tags: ["Release Notes", "Search", "Import", "Email Structure", "Django", "PostgreSQL", "Flask", "Search Functions"]
 ---
 
-![This release is named "Pyxis" after the constellation representing a mariner's compass.](/imgs/Pyxis.jpg)
+![This release is named "Pyxis" after the constellation representing a mariner's compass.](/imgs/pyxis-art.png)
 
 #### Why we did it: Our objectives for this release
 

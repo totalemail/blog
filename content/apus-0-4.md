@@ -5,7 +5,7 @@ description: "Version 0.4 is released! Named 'Apus' after the constellation repr
 tags: ["Release Notes", "GUI", "Redaction", "Privacy", "Social Security Numbers", "Personally Identifiable Information", "Phone Numbers", "Regexes", "Email Structure", "Django", "Search"]
 ---
 
-![This release is named "Apus" after the constellation representing a bird of paradise](/imgs/apus-art.jpg)
+![This release is named "Apus" after the constellation representing a bird of paradise](/imgs/apus-art.png)
 
 #### Why we did it: Our objectives for this release
 
