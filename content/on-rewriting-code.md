@@ -2,7 +2,7 @@
 title: "Three Things We Observed When Rewriting our Code-Base"
 date: 2019-04-16
 description: "We recently rewrote our code-base and we'd like to share three observations from the process."
-tags: ["Developer Notes", "Lessons Learned", "Software Architecture", "Software Architecture", "Django", "Complexity"]
+tags: ["Developer Notes", "Lessons Learned", "Software Architecture", "Django", "Complexity"]
 ---
 
 We've recently rewritten much of our code-base (for various reasons I won't go into here). It was frustrating to have to do this at first, but looking back, it was an insightful and profitable experience! In this post, I'm going to highlight a few of lessons that stood out to us as we rewrote/restructured our code-base.

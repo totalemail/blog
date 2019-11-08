@@ -20,10 +20,10 @@ In this release, we wanted to:
 Some of the most exiting features of this release include:
 
 - Added ability to parse network data from base64 encoded bodies
-- Make a network data super-class to generalize the handling of the `modified` and `first_seen` dates
-- Using python's [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) module to speed up the email analysis engines
+- Made a network data super-class to generalize the handling of the `modified` and `first_seen` dates
+- Used python's [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) module to speed up the email analysis engines
 - Minor bug fixes
-- Making the side-bar 'sticky' on an email's details page
+- Made the side-bar 'sticky' on an email's details page
 
 #### How we did it: Technical implementation details
 

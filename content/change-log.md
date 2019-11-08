@@ -9,6 +9,21 @@ You can read more about our future plans [here](/road-map/).
 
 <hr>
 
+#### v0.7: Ara (*November 08, 2019*)
+
+- Cleaned the code-base on the analysis engines to make it easier to add more engines moving forward
+- Added a [search function](https://blog.totalemail.io/search-functions-0/) to view emails with attachments
+- Showed the hash for attachments
+- Set up an automated collection system to collect malicious and suspicious emails from various locations on the internet
+- Ran load on our API
+- Updated our [Python SDK](https://gitlab.com/totalemail/te-python) to be more user-friendly and intuitive
+
+![This release is named "Ara" after the constellation representing an altar](/imgs/ara-art.png)
+
+[Read more about v0.7](/ara-0-7/) - [Read more about Ara (the constellation)](https://en.wikipedia.org/wiki/Ara_(constellation))
+
+<hr>
+
 #### v0.6: Aquila (*August 3, 2019*)
 
 - Added ability to parse network data from base64 encoded bodies
@@ -32,7 +47,7 @@ You can read more about our future plans [here](/road-map/).
 - Adding a voting feature (you can read more about this [here](https://blog.totalemail.io/email-voting-0/))
 - Improved scoring system to go from 0 to 1 (you can find more details [here](https://blog.totalemail.io/email-scoring-0/))
 
-![This release is named "Aquarius" after the constellation representing a water bearer](/imgs/aquarius-annotated.png)
+![This release is named "Aquarius" after the constellation representing a water bearer](/imgs/aquarius-art.png)
 
 [Read more about v0.5](/aquarius-0-5/) - [Read more about Aquarius (the constellation)](https://en.wikipedia.org/wiki/Aquarius_(constellation))
 
@@ -48,7 +63,7 @@ You can read more about our future plans [here](/road-map/).
 - Showing the body content type for each body
 - Improving search GUI/UX
 
-![This release is named "Apus" after the constellation representing a bird of paradise](/imgs/apus-annotated.jpg)
+![This release is named "Apus" after the constellation representing a bird of paradise](/imgs/apus-art.png)
 
 [Read more about v0.4](/apus-0-4/) - [Read more about Apus (the constellation)](https://en.wikipedia.org/wiki/Apus)
 
@@ -63,7 +78,7 @@ You can read more about our future plans [here](/road-map/).
 - Improved GUI layout
     - We have improved the GUI; especially on the details page for an email (e.g. [https://totalemail.io/email/409e912be8f09795ebb8fe38aa0e71cb3b87fec2a3450a54fbdd6712be713099](https://totalemail.io/email/409e912be8f09795ebb8fe38aa0e71cb3b87fec2a3450a54fbdd6712be713099))
 
-![This release is named "Antlia" after the constellation representing an air pump](/imgs/antlia-annotated.jpg)
+![This release is named "Antlia" after the constellation representing an air pump](/imgs/antlia-art.png)
 
 [Read more about v0.3](/antlia-0-3/) - [Read more about Antlia (the constellation)](https://en.wikipedia.org/wiki/Antlia)
 
@@ -81,7 +96,7 @@ You can read more about our future plans [here](/road-map/).
             - Find emails with a certain domain in the body
             - Find emails with certain text in the body
 
-![This release is named "Andromeda" after the constellation representing chained princess from Greek mythology](/imgs/andromeda_annotated.png)
+![This release is named "Andromeda" after the constellation representing chained princess from Greek mythology](/imgs/andromeda-art.png)
 
 [Read more about v0.2](/andromeda-0-2/) - [Read more about Andromeda (the constellation)](https://en.wikipedia.org/wiki/Andromeda_(constellation))
 
@@ -94,6 +109,6 @@ You can read more about our future plans [here](/road-map/).
 - Adding ability to upload multiple emails (max of 50)
 - Adding email structure 'map' (you can see this [here](https://totalemail.io/email/2159d16de88b89a91418ea282c1e26404b625a225aece7921838ab428b74f5a2))
 
-![This release is named "Pyxis" after the constellation representing a mariner's compass.](/imgs/Pyxis.jpg)
+![This release is named "Pyxis" after the constellation representing a mariner's compass.](/imgs/pyxis-art.png)
 
 [Read more about v0.1](/pyxis-0-1/) - [Read more about Pyxis (the constellation)](https://en.wikipedia.org/wiki/Pyxis)
